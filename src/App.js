@@ -91,7 +91,7 @@ function App() {
       <div>
         {/* Sticky Navbar */}
         <nav className="navbar">
-          <div className="navbar__logo">Pixahive</div>
+          <div className="navbar__logo">FotoFlix</div>
           <form action="" className="navbar__search-form" onSubmit={handleSubmit}>
             <input
               type="text"
