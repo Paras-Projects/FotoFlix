@@ -6,7 +6,7 @@ const Favourite = ({ favoritePhotos, handleRemoveFavorite }) => {
     <div>
       {/* Sticky Navbar */}
       <nav className="navbar">
-        <div className="navbar__logo">Pixahive</div>
+        <div className="navbar__logo">FotoFlix</div>
         <div className="navbar__links">
           <a href="/">Home</a>
         </div>
